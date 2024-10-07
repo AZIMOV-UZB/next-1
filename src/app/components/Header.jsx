@@ -18,6 +18,7 @@ export const Header = () => {
           alt=""
         />
         </Link>
+        {/* //azimov */}
       <div className="flex">
       <ul className="flex gap-4">
         <li> <Link href={"/"}  className="font-bold">Home</Link></li>
