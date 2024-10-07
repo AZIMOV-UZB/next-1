@@ -23,7 +23,9 @@ export const Header = () => {
         <li> <Link href={"/"}  className="font-bold">Home</Link></li>
         <li> <Link href={"/shop"}  className="font-bold">Shop</Link></li>
         <li> <Link href={"/about"}  className="font-bold">About</Link></li>
-        <li> <Link href={"/contact"}  className="font-bold">Contact</Link></li>
+        <li> <Link href={"/checkout"}  className="font-bold">Checkout</Link></li>
+        <li> <Link href={"/contact"}  className="font-bold"></Link></li>
+        <li> <Link href={"/blog"}  className="font-bold">Blog</Link></li>
         <li> <Link href={"/login"}  className="font-bold">Login</Link></li>
       </ul>
       </div>
